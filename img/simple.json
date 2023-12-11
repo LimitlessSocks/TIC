@@ -1,0 +1,19 @@
+{
+    "size": [512, 512],
+    "layers": {
+        "0": [
+            {
+                "path": "face.png",
+                "size": [256, 256],
+                "position": [64, 128]
+            }
+        ],
+        "1": [
+            {
+                "path": "test-hole.png",
+                "size": [512, 512],
+                "position": [0, 0]
+            }
+        ]
+    }
+}
